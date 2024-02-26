@@ -1,0 +1,4 @@
+#Mon Feb 26 00:00:42 IST 2024
+base.0=/home/ispl/wfNamdev/flutter_webview/flutter_application_1/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

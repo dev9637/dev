@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/ispl/wfNamdev/flutter_webview/flutter_application_1/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/home/ispl/wfNamdev/flutter_webview/flutter_application_1/build/app"
+    bootClassPath="/home/ispl/Android/Sdk/platforms/android-34/android.jar:/home/ispl/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
