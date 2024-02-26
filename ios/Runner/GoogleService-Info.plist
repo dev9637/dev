@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDdscRUBDm1wchcsWslO2NJCUC-d38qwAY</string>
+	<string>AIzaSyDQ2Xab3ve16uLMqelF3cUwAq9neB12PSU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>873751623961</string>
+	<string>435003970752</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.flutterApplication1</string>
+	<string>com.indicussoftware.webviewapp</string>
 	<key>PROJECT_ID</key>
-	<string>webview-d0eac</string>
+	<string>webviewapp-1e7d9</string>
 	<key>STORAGE_BUCKET</key>
-	<string>webview-d0eac.appspot.com</string>
+	<string>webviewapp-1e7d9.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:873751623961:ios:b728ca23944dae8f8f2d88</string>
+	<string>1:435003970752:ios:265b0d87c75e45175e0925</string>
 </dict>
 </plist>

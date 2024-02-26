@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAWtrnNnOWx_U6EUFY44ZQon_pcrLJ4OuQ',
-    appId: '1:873751623961:web:2b968dd57dff31a78f2d88',
-    messagingSenderId: '873751623961',
-    projectId: 'webview-d0eac',
-    authDomain: 'webview-d0eac.firebaseapp.com',
-    storageBucket: 'webview-d0eac.appspot.com',
-    measurementId: 'G-FJED94Q0N6',
+    apiKey: 'AIzaSyDYjKPKjXT-h9LZ8EJhsQMw5bOMvOaKW9M',
+    appId: '1:435003970752:web:0ea287bc674add0f5e0925',
+    messagingSenderId: '435003970752',
+    projectId: 'webviewapp-1e7d9',
+    authDomain: 'webviewapp-1e7d9.firebaseapp.com',
+    storageBucket: 'webviewapp-1e7d9.appspot.com',
+    measurementId: 'G-VLSE2EKJHC',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAEGp20KDGUY-MwT9Fh--bc_Z3lNCUMO0Y',
-    appId: '1:873751623961:android:d1838a3ba223a1898f2d88',
-    messagingSenderId: '873751623961',
-    projectId: 'webview-d0eac',
-    storageBucket: 'webview-d0eac.appspot.com',
+    apiKey: 'AIzaSyDg_L42ahcaew0nLxai289K42mHJV3Ki_M',
+    appId: '1:435003970752:android:687997a9f7d0a1e95e0925',
+    messagingSenderId: '435003970752',
+    projectId: 'webviewapp-1e7d9',
+    storageBucket: 'webviewapp-1e7d9.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDdscRUBDm1wchcsWslO2NJCUC-d38qwAY',
-    appId: '1:873751623961:ios:b728ca23944dae8f8f2d88',
-    messagingSenderId: '873751623961',
-    projectId: 'webview-d0eac',
-    storageBucket: 'webview-d0eac.appspot.com',
-    iosBundleId: 'com.example.flutterApplication1',
+    apiKey: 'AIzaSyDQ2Xab3ve16uLMqelF3cUwAq9neB12PSU',
+    appId: '1:435003970752:ios:265b0d87c75e45175e0925',
+    messagingSenderId: '435003970752',
+    projectId: 'webviewapp-1e7d9',
+    storageBucket: 'webviewapp-1e7d9.appspot.com',
+    iosBundleId: 'com.indicussoftware.webviewapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDdscRUBDm1wchcsWslO2NJCUC-d38qwAY',
-    appId: '1:873751623961:ios:9df052dd8c3da7268f2d88',
-    messagingSenderId: '873751623961',
-    projectId: 'webview-d0eac',
-    storageBucket: 'webview-d0eac.appspot.com',
+    apiKey: 'AIzaSyDQ2Xab3ve16uLMqelF3cUwAq9neB12PSU',
+    appId: '1:435003970752:ios:5ff364125aabb7f05e0925',
+    messagingSenderId: '435003970752',
+    projectId: 'webviewapp-1e7d9',
+    storageBucket: 'webviewapp-1e7d9.appspot.com',
     iosBundleId: 'com.example.flutterApplication1.RunnerTests',
   );
 }
